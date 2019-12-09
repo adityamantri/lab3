@@ -1,0 +1,13 @@
+.container{
+    max-width: 420px;
+	width: auto;
+	margin: 0 auto;
+    margin-top: 80px;
+    padding-bottom: 20px;
+    border: 0.5px lightgray rgb(156, 152, 152)
+}
+
+.createRoute{
+    cursor: pointer;
+    text-align: center
+}

@@ -1,0 +1,27 @@
+.container{
+    border-radius: 15px;
+    max-width: 570px;
+	width: auto;
+	margin: 0 auto;
+    margin-top: 80px;
+    padding-bottom: 20px;
+    border: 1px solid rgb(156, 152, 152)
+}
+
+.createRoute{
+    cursor: pointer;
+    text-align: center
+}
+
+.viewItem{
+display:inline-block;
+max-width: 50%;
+margin-left:150px;
+}
+
+.updateItem{
+    display:inline-block;
+    max-width: 50%;
+    margin-left:35px;
+
+}
